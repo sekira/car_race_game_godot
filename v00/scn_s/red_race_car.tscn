@@ -5,7 +5,7 @@
 [sub_resource type="ConvexPolygonShape2D" id=1]
 points = PoolVector2Array( 24, -43, 19.623, -50.656, 8.998, -53.668, -11.268, -53.739, -19.077, -50.763, -24.066, -42.805, -31.573, 53.654, 31.122, 53.726 )
 
-[node name="Node2D" type="Node2D"]
+[node name="red_car" type="Node2D"]
 
 [node name="red_sport_car" type="Sprite" parent="."]
 position = Vector2( 0, -1 )
